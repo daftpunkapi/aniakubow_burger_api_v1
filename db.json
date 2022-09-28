@@ -1,0 +1,30 @@
+{
+    "Companies": [
+        {
+        "SNO": 0,
+        "Company": "m3o",
+        "Company_URL": "https://m3o.com/",
+        "Category": "Wrapper",
+        "Sub_Category": "Aggregator",
+        "API_Industry_Cater": "Horizontal",
+        "YYYY_Found": 2017,
+        "Equity": 0,
+        "Investor": "",
+        "Stage": "",
+        "Country": "US"
+        },
+        {
+        "SNO": 1,
+        "Company": "AbstractAPI",
+        "Company_URL": "https://www.abstractapi.com/",
+        "Category": "Wrapper",
+        "Sub_Category": "Aggregator",
+        "API_Industry_Cater": "Horizontal",
+        "YYYY_Found": 2020,
+        "Equity": 0,
+        "Investor": "",
+        "Stage": "",
+        "Country": "US"
+        }
+    ]
+}
