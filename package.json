@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "json-server": "^0.17.0"
-  }
+  },
+  "name": "apidirectoryv1",
+  "description": "API Directory",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daftpunkapi/apidirectoryv1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daftpunkapi/apidirectoryv1/issues"
+  },
+  "homepage": "https://github.com/daftpunkapi/apidirectoryv1#readme"
 }
